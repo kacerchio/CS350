@@ -1,0 +1,30 @@
+Experiment 0
+Thread 0: 4.40219914E7 | Thread 1: 2.77301682E7
+
+Experiment 1
+Thread 0: 8.10850262E7 | Thread 1: 1.17391E7
+
+Experiment 2
+Thread 0: 1.112257044E8 | Thread 1: 7.3331007E7
+
+Experiment 3
+Thread 0: 6.4191284E7 | Thread 1: 1.09921292E7
+
+Experiment 4
+Thread 0: 4.50625566E7 | Thread 1: 3.11753042E7
+
+Experiment 5
+Thread 0: 5.83626102E7 | Thread 1: 1.92622284E7
+
+Experiment 6
+Thread 0: 9.57362654E7 | Thread 1: 6.37412388E7
+
+Experiment 7
+Thread 0: 6.84922346E7 | Thread 1: 1.27517724E7
+
+Experiment 8
+Thread 0: 9.18742374E7 | Thread 1: 3.54051792E7
+
+Experiment 9
+Thread 0: 9.02587406E7 | Thread 1: 7.22487422E7
+

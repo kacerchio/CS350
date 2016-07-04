@@ -1,0 +1,65 @@
+import java.util.concurrent.Semaphore;
+import java.util.*;
+
+public class Controller extends Thread { 
+  
+  private static int K = 6;  // Number of terminals
+  
+  static volatile int[] pickUpRequests = new int[K];          // Array to keep track of # requests to enter each terminal
+  static volatile int[] dropOffRequests = new int[K];         // Array to keep track of # requests to leave each terminal
+
+  
+  static volatile Semaphore[] enterLock = new Semaphore[K];   // Semaphores to check if a passenger can enter shuttle
+  static {
+    for(int i = 0; i < K; i++) {
+      enterLock[i] = new Semaphore(0);
+    }   
+  }
+  static volatile Semaphore[] exitLock = new Semaphore[K];    // Semaphores to check if a passenger can leave shuttle
+  static {
+    for(int i = 0; i < K; i++) {
+      exitLock[i] = new Semaphore(0);
+    }   
+  }
+  static volatile Semaphore mutex = new Semaphore(1, false);
+  
+  static volatile int shuttleCap = 10;                          // Number of passengers allowed on a shuttle 
+  static volatile Semaphore scMutex = new Semaphore(1, false);  // Mutex to access shuttleCap variable
+  
+  /*
+   * startTerminal() returns a random integer between 1 and 6
+   * to select as a starting terminal for a passenger
+   */ 
+  public static int startTerminal() { 
+    return (int)(Math.random() * 6); 
+  }
+  
+  /*
+   * destTerminal() returns a random integer between 1 and 6
+   * to select as a destination terminal for a passenger
+   */ 
+  public static int destTerminal(int st) {
+    int dt = (int)(Math.random() * 6);
+    while (dt == st) {
+      dt = (int)(Math.random() * 6);
+    }
+    return dt;
+  }
+  
+  /*
+   * Spawns and runs 50 passengers concurrently
+   */ 
+  public static void main(String[] args) {
+    final int N = 10;
+    Passenger[] p = new Passenger[N];
+    for (int id = 0; id < N; id++) {
+      int st = startTerminal();
+      int dt = destTerminal(st);
+      p[id] = new Passenger(id, st, dt);
+      p[id].start();
+    }
+    Shuttle s = new Shuttle();
+    s.start();
+  }
+  
+}

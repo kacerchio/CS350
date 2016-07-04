@@ -1,0 +1,20 @@
+import java.util.concurrent.Semaphore;
+import java.util.*;
+
+public class Q3A extends Thread {
+  
+  private int id;
+  private static int N = 2;
+  private final Random rand = new Random();
+  private static volatile Semaphore [] counter = new Semaphore [N];
+  
+  /*
+   * Create a new process with given id
+   */ 
+  public Q3A(int id) {
+    this.id = id;
+  }
+  
+  
+
+}

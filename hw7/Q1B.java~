@@ -1,0 +1,11 @@
+import java.util.concurrent.Semaphore;
+import java.util.*;
+
+public class Q1B extends Thread {
+  
+  private int id;
+  private static int N = 4;
+  private final Random rand = new Random();
+  static volatile int[] ticket = new int[N];
+  
+  

@@ -1,0 +1,821 @@
+Welcome to DrJava.  Working directory is /Users/abbytan/Documents/BU Documents/CS350/hw8/Q3
+> run Controller
+Passenger 0 is waiting for a shuttle at terminal 4
+Passenger 1 is waiting for a shuttle at terminal 0
+Passenger 2 is waiting for a shuttle at terminal 1
+Passenger 3 is waiting for a shuttle at terminal 5
+Passenger 4 is waiting for a shuttle at terminal 5
+Shuttle 1 is at Terminal 4
+Passenger 5 is waiting for a shuttle at terminal 4
+Shuttle 1 is leaving Terminal 4
+Passenger 6 is waiting for a shuttle at terminal 2
+Passenger 7 is waiting for a shuttle at terminal 0
+Passenger 8 is waiting for a shuttle at terminal 2
+Passenger 9 is waiting for a shuttle at terminal 0
+Shuttle 0 is at Terminal 4
+Passenger 5 is entering a shuttle at terminal 4
+Passenger 0 is entering a shuttle at terminal 4
+Passenger 5 is on a shuttle en route to terminal 1
+Shuttle 0 is leaving Terminal 4
+Passenger 0 is on a shuttle en route to terminal 1
+Passenger 3 is entering a shuttle at terminal 5
+Passenger 4 is entering a shuttle at terminal 5
+Shuttle 1 is at Terminal 0
+Passenger 3 is on a shuttle en route to terminal 2
+Shuttle 1 is leaving Terminal 0
+Passenger 4 is on a shuttle en route to terminal 2
+Passenger 1 is entering a shuttle at terminal 0
+Passenger 9 is entering a shuttle at terminal 0
+Shuttle 0 is at Terminal 0
+Passenger 7 is entering a shuttle at terminal 0
+Passenger 1 is on a shuttle en route to terminal 1
+Passenger 9 is on a shuttle en route to terminal 5
+Passenger 7 is on a shuttle en route to terminal 1
+Passenger 5 is exiting a shuttle at terminal 1
+Passenger 7 is exiting a shuttle at terminal 1
+Passenger 1 is exiting a shuttle at terminal 1
+Passenger 0 is exiting a shuttle at terminal 1
+Shuttle 0 is leaving Terminal 1
+Passenger 5 is waiting for a shuttle at terminal 4
+Passenger 7 is waiting for a shuttle at terminal 0
+Passenger 1 is waiting for a shuttle at terminal 0
+Passenger 0 is waiting for a shuttle at terminal 4
+Passenger 2 is entering a shuttle at terminal 1
+Shuttle 1 is at Terminal 1
+Passenger 2 is on a shuttle en route to terminal 3
+Shuttle 1 is leaving Terminal 1
+Shuttle 0 is at Terminal 2
+Passenger 8 is entering a shuttle at terminal 2
+Passenger 6 is entering a shuttle at terminal 2
+Passenger 8 is on a shuttle en route to terminal 4
+Passenger 4 is exiting a shuttle at terminal 2
+Passenger 3 is exiting a shuttle at terminal 2
+Shuttle 0 is leaving Terminal 2
+Passenger 6 is on a shuttle en route to terminal 0
+Shuttle 1 is at Terminal 2
+Passenger 4 is waiting for a shuttle at terminal 5
+Shuttle 1 is leaving Terminal 2
+Passenger 3 is waiting for a shuttle at terminal 5
+Shuttle 0 is at Terminal 3
+Shuttle 0 is leaving Terminal 3
+Passenger 2 is exiting a shuttle at terminal 3
+Passenger 2 is waiting for a shuttle at terminal 1
+Shuttle 0 is at Terminal 4
+Shuttle 0 is leaving Terminal 3
+Shuttle 1 is at Terminal 3
+Shuttle 1 is leaving Terminal 3
+Shuttle 0 is at Terminal 5
+Shuttle 0 is leaving Terminal 5
+Passenger 9 is exiting a shuttle at terminal 5
+Passenger 3 is entering a shuttle at terminal 5
+Shuttle 1 is at Terminal 0
+Passenger 4 is entering a shuttle at terminal 5
+Passenger 9 is waiting for a shuttle at terminal 0
+Passenger 3 is on a shuttle en route to terminal 4
+Shuttle 1 is leaving Terminal 0
+Passenger 4 is on a shuttle en route to terminal 3
+Passenger 6 is exiting a shuttle at terminal 0
+Passenger 9 is entering a shuttle at terminal 0
+Passenger 1 is entering a shuttle at terminal 0
+Shuttle 0 is at Terminal 0
+Passenger 7 is entering a shuttle at terminal 0
+Shuttle 0 is leaving Terminal 1
+Passenger 6 is waiting for a shuttle at terminal 2
+Passenger 9 is on a shuttle en route to terminal 4
+Passenger 1 is on a shuttle en route to terminal 1
+Passenger 7 is on a shuttle en route to terminal 5
+Passenger 2 is entering a shuttle at terminal 1
+Shuttle 1 is at Terminal 1
+Passenger 2 is on a shuttle en route to terminal 3
+Shuttle 1 is leaving Terminal 1
+Passenger 1 is exiting a shuttle at terminal 1
+Shuttle 0 is at Terminal 1
+Passenger 1 is waiting for a shuttle at terminal 0
+Shuttle 0 is leaving Terminal 1
+Shuttle 0 is at Terminal 2
+Shuttle 0 is leaving Terminal 2
+Passenger 6 is entering a shuttle at terminal 2
+Shuttle 1 is at Terminal 2
+Shuttle 1 is leaving Terminal 2
+Passenger 6 is on a shuttle en route to terminal 1
+Shuttle 1 is at Terminal 3
+Shuttle 1 is leaving Terminal 3
+Passenger 2 is exiting a shuttle at terminal 3
+Passenger 4 is exiting a shuttle at terminal 3
+Passenger 2 is waiting for a shuttle at terminal 1
+Shuttle 0 is at Terminal 3
+Passenger 4 is waiting for a shuttle at terminal 5
+Shuttle 0 is leaving Terminal 4
+Passenger 9 is exiting a shuttle at terminal 4
+Passenger 3 is exiting a shuttle at terminal 4
+Passenger 8 is exiting a shuttle at terminal 4
+Passenger 9 is waiting for a shuttle at terminal 0
+Passenger 0 is entering a shuttle at terminal 4
+Shuttle 1 is at Terminal 4
+Passenger 5 is entering a shuttle at terminal 4
+Passenger 3 is waiting for a shuttle at terminal 5
+Passenger 8 is waiting for a shuttle at terminal 2
+Passenger 0 is on a shuttle en route to terminal 1
+Shuttle 1 is leaving Terminal 5
+Passenger 7 is exiting a shuttle at terminal 5
+Passenger 5 is on a shuttle en route to terminal 0
+Passenger 7 is waiting for a shuttle at terminal 0
+Passenger 4 is entering a shuttle at terminal 5
+Shuttle 0 is at Terminal 0
+Passenger 3 is entering a shuttle at terminal 5
+Passenger 4 is on a shuttle en route to terminal 2
+Shuttle 0 is leaving Terminal 0
+Passenger 5 is exiting a shuttle at terminal 0
+Passenger 3 is on a shuttle en route to terminal 2
+Passenger 5 is waiting for a shuttle at terminal 4
+Passenger 1 is entering a shuttle at terminal 0
+Passenger 7 is entering a shuttle at terminal 0
+Shuttle 1 is at Terminal 0
+Passenger 9 is entering a shuttle at terminal 0
+Passenger 1 is on a shuttle en route to terminal 4
+Passenger 7 is on a shuttle en route to terminal 3
+Shuttle 1 is leaving Terminal 1
+Passenger 0 is exiting a shuttle at terminal 1
+Passenger 6 is exiting a shuttle at terminal 1
+Passenger 9 is on a shuttle en route to terminal 5
+Passenger 0 is waiting for a shuttle at terminal 4
+Shuttle 0 is at Terminal 1
+Passenger 2 is entering a shuttle at terminal 1
+Shuttle 0 is leaving Terminal 1
+Passenger 6 is waiting for a shuttle at terminal 2
+Passenger 2 is on a shuttle en route to terminal 0
+Passenger 8 is entering a shuttle at terminal 2
+Passenger 6 is entering a shuttle at terminal 2
+Shuttle 1 is at Terminal 2
+Passenger 8 is on a shuttle en route to terminal 0
+Passenger 6 is on a shuttle en route to terminal 5
+Shuttle 1 is leaving Terminal 2
+Passenger 3 is exiting a shuttle at terminal 2
+Passenger 4 is exiting a shuttle at terminal 2
+Passenger 3 is waiting for a shuttle at terminal 5
+Shuttle 0 is at Terminal 2
+Passenger 4 is waiting for a shuttle at terminal 5
+Shuttle 0 is leaving Terminal 3
+Passenger 7 is exiting a shuttle at terminal 3
+Shuttle 1 is at Terminal 3
+Passenger 7 is waiting for a shuttle at terminal 0
+Shuttle 1 is leaving Terminal 3
+Passenger 5 is entering a shuttle at terminal 4
+Passenger 0 is entering a shuttle at terminal 4
+Shuttle 0 is at Terminal 4
+Passenger 5 is on a shuttle en route to terminal 0
+Passenger 0 is on a shuttle en route to terminal 0
+Shuttle 0 is leaving Terminal 4
+Passenger 1 is exiting a shuttle at terminal 4
+Passenger 1 is waiting for a shuttle at terminal 0
+Shuttle 1 is at Terminal 4
+Shuttle 1 is leaving Terminal 4
+Shuttle 0 is at Terminal 5
+Passenger 4 is entering a shuttle at terminal 5
+Passenger 3 is entering a shuttle at terminal 5
+Passenger 4 is on a shuttle en route to terminal 1
+Passenger 6 is exiting a shuttle at terminal 5
+Passenger 9 is exiting a shuttle at terminal 5
+Shuttle 0 is leaving Terminal 5
+Passenger 3 is on a shuttle en route to terminal 2
+Shuttle 1 is at Terminal 0
+Passenger 6 is waiting for a shuttle at terminal 2
+Passenger 9 is waiting for a shuttle at terminal 0
+Shuttle 1 is leaving Terminal 0
+Passenger 0 is exiting a shuttle at terminal 0
+Passenger 0 is waiting for a shuttle at terminal 4
+Passenger 5 is exiting a shuttle at terminal 0
+Passenger 8 is exiting a shuttle at terminal 0
+Passenger 2 is exiting a shuttle at terminal 0
+Passenger 5 is waiting for a shuttle at terminal 4
+Passenger 9 is entering a shuttle at terminal 0
+Passenger 1 is entering a shuttle at terminal 0
+Shuttle 0 is at Terminal 0
+Passenger 7 is entering a shuttle at terminal 0
+Passenger 8 is waiting for a shuttle at terminal 2
+Passenger 2 is waiting for a shuttle at terminal 1
+Passenger 9 is on a shuttle en route to terminal 4
+Passenger 1 is on a shuttle en route to terminal 1
+Shuttle 0 is leaving Terminal 1
+Passenger 1 is exiting a shuttle at terminal 1
+Passenger 4 is exiting a shuttle at terminal 1
+Passenger 7 is on a shuttle en route to terminal 3
+Passenger 1 is waiting for a shuttle at terminal 0
+Shuttle 1 is at Terminal 1
+Passenger 2 is entering a shuttle at terminal 1
+Shuttle 1 is leaving Terminal 1
+Passenger 4 is waiting for a shuttle at terminal 5
+Passenger 2 is on a shuttle en route to terminal 2
+Passenger 6 is entering a shuttle at terminal 2
+Shuttle 0 is at Terminal 2
+Passenger 8 is entering a shuttle at terminal 2
+Passenger 6 is on a shuttle en route to terminal 4
+Passenger 8 is on a shuttle en route to terminal 0
+Passenger 3 is exiting a shuttle at terminal 2
+Passenger 2 is exiting a shuttle at terminal 2
+Shuttle 0 is leaving Terminal 2
+Passenger 3 is waiting for a shuttle at terminal 5
+Shuttle 1 is at Terminal 2
+Shuttle 1 is leaving Terminal 2
+Passenger 2 is waiting for a shuttle at terminal 1
+Shuttle 0 is at Terminal 3
+Shuttle 0 is leaving Terminal 3
+Passenger 7 is exiting a shuttle at terminal 3
+Shuttle 1 is at Terminal 3
+Passenger 7 is waiting for a shuttle at terminal 0
+Shuttle 1 is leaving Terminal 3
+Shuttle 0 is at Terminal 4
+Shuttle 0 is leaving Terminal 4
+Passenger 6 is exiting a shuttle at terminal 4
+Passenger 9 is exiting a shuttle at terminal 4
+Passenger 6 is waiting for a shuttle at terminal 2
+Passenger 5 is entering a shuttle at terminal 4
+Shuttle 1 is at Terminal 4
+Passenger 0 is entering a shuttle at terminal 4
+Shuttle 1 is leaving Terminal 5
+Passenger 9 is waiting for a shuttle at terminal 0
+Passenger 5 is on a shuttle en route to terminal 2
+Passenger 0 is on a shuttle en route to terminal 2
+Passenger 4 is entering a shuttle at terminal 5
+Passenger 3 is entering a shuttle at terminal 5
+Shuttle 0 is at Terminal 0
+Passenger 4 is on a shuttle en route to terminal 4
+Passenger 3 is on a shuttle en route to terminal 4
+Shuttle 0 is leaving Terminal 0
+Passenger 8 is exiting a shuttle at terminal 0
+Passenger 9 is entering a shuttle at terminal 0
+Passenger 7 is entering a shuttle at terminal 0
+Shuttle 1 is at Terminal 0
+Passenger 1 is entering a shuttle at terminal 0
+Shuttle 1 is leaving Terminal 0
+Passenger 8 is waiting for a shuttle at terminal 2
+Passenger 9 is on a shuttle en route to terminal 1
+Passenger 7 is on a shuttle en route to terminal 1
+Passenger 1 is on a shuttle en route to terminal 1
+Passenger 2 is entering a shuttle at terminal 1
+Shuttle 0 is at Terminal 1
+Passenger 2 is on a shuttle en route to terminal 4
+Shuttle 0 is leaving Terminal 1
+Passenger 1 is exiting a shuttle at terminal 1
+Passenger 7 is exiting a shuttle at terminal 1
+Passenger 9 is exiting a shuttle at terminal 1
+Shuttle 1 is at Terminal 1
+Passenger 1 is waiting for a shuttle at terminal 0
+Passenger 7 is waiting for a shuttle at terminal 0
+Passenger 9 is waiting for a shuttle at terminal 0
+Shuttle 1 is leaving Terminal 2
+Passenger 0 is exiting a shuttle at terminal 2
+Passenger 5 is exiting a shuttle at terminal 2
+Passenger 0 is waiting for a shuttle at terminal 4
+Passenger 8 is entering a shuttle at terminal 2
+Shuttle 0 is at Terminal 2
+Passenger 6 is entering a shuttle at terminal 2
+Passenger 5 is waiting for a shuttle at terminal 4
+Passenger 8 is on a shuttle en route to terminal 4
+Passenger 6 is on a shuttle en route to terminal 3
+Passenger 3 is exiting a shuttle at terminal 4
+Passenger 4 is exiting a shuttle at terminal 4
+Passenger 3 is waiting for a shuttle at terminal 5
+Passenger 8 is exiting a shuttle at terminal 4
+Passenger 2 is exiting a shuttle at terminal 4
+Shuttle 0 is leaving Terminal 4
+Passenger 4 is waiting for a shuttle at terminal 5
+Passenger 8 is waiting for a shuttle at terminal 2
+Passenger 2 is waiting for a shuttle at terminal 1
+Passenger 0 is entering a shuttle at terminal 4
+Passenger 0 is on a shuttle en route to terminal 5
+Passenger 5 is entering a shuttle at terminal 4
+Passenger 5 is on a shuttle en route to terminal 3
+Shuttle 1 is at Terminal 4
+Shuttle 1 is leaving Terminal 3
+Passenger 5 is exiting a shuttle at terminal 3
+Passenger 6 is exiting a shuttle at terminal 3
+Passenger 5 is waiting for a shuttle at terminal 4
+Shuttle 0 is at Terminal 3
+Passenger 6 is waiting for a shuttle at terminal 2
+Shuttle 0 is leaving Terminal 5
+Passenger 0 is exiting a shuttle at terminal 5
+Passenger 4 is entering a shuttle at terminal 5
+Shuttle 1 is at Terminal 5
+Passenger 3 is entering a shuttle at terminal 5
+Shuttle 1 is leaving Terminal 4
+Passenger 0 is waiting for a shuttle at terminal 4
+Passenger 4 is on a shuttle en route to terminal 0
+Passenger 3 is on a shuttle en route to terminal 2
+Passenger 5 is entering a shuttle at terminal 4
+Passenger 0 is entering a shuttle at terminal 4
+Shuttle 0 is at Terminal 0
+Passenger 5 is on a shuttle en route to terminal 0
+Passenger 0 is on a shuttle en route to terminal 3
+Shuttle 0 is leaving Terminal 0
+Passenger 5 is exiting a shuttle at terminal 0
+Passenger 4 is exiting a shuttle at terminal 0
+Passenger 5 is waiting for a shuttle at terminal 4
+Passenger 9 is entering a shuttle at terminal 0
+Passenger 7 is entering a shuttle at terminal 0
+Shuttle 1 is at Terminal 0
+Shuttle 1 is leaving Terminal 1
+Passenger 1 is entering a shuttle at terminal 0
+Passenger 4 is waiting for a shuttle at terminal 5
+Passenger 9 is on a shuttle en route to terminal 2
+Passenger 7 is on a shuttle en route to terminal 2
+Passenger 1 is on a shuttle en route to terminal 5
+Shuttle 0 is at Terminal 1
+Shuttle 0 is leaving Terminal 1
+Passenger 2 is entering a shuttle at terminal 1
+Passenger 2 is on a shuttle en route to terminal 4
+Shuttle 1 is at Terminal 2
+Shuttle 1 is leaving Terminal 2
+Passenger 7 is exiting a shuttle at terminal 2
+Passenger 9 is exiting a shuttle at terminal 2
+Passenger 3 is exiting a shuttle at terminal 2
+Passenger 7 is waiting for a shuttle at terminal 0
+Passenger 6 is entering a shuttle at terminal 2
+Shuttle 0 is at Terminal 2
+Passenger 8 is entering a shuttle at terminal 2
+Passenger 9 is waiting for a shuttle at terminal 0
+Passenger 3 is waiting for a shuttle at terminal 5
+Passenger 6 is on a shuttle en route to terminal 5
+Shuttle 0 is leaving Terminal 3
+Passenger 0 is exiting a shuttle at terminal 3
+Passenger 8 is on a shuttle en route to terminal 0
+Shuttle 1 is at Terminal 3
+Passenger 0 is waiting for a shuttle at terminal 4
+Shuttle 1 is leaving Terminal 4
+Passenger 2 is exiting a shuttle at terminal 4
+Passenger 0 is entering a shuttle at terminal 4
+Shuttle 0 is at Terminal 4
+Shuttle 0 is leaving Terminal 4
+Passenger 5 is entering a shuttle at terminal 4
+Passenger 2 is waiting for a shuttle at terminal 1
+Passenger 0 is on a shuttle en route to terminal 3
+Passenger 5 is on a shuttle en route to terminal 5
+Passenger 4 is entering a shuttle at terminal 5
+Shuttle 1 is at Terminal 5
+Passenger 3 is entering a shuttle at terminal 5
+Passenger 4 is on a shuttle en route to terminal 4
+Passenger 3 is on a shuttle en route to terminal 1
+Passenger 1 is exiting a shuttle at terminal 5
+Passenger 5 is exiting a shuttle at terminal 5
+Passenger 6 is exiting a shuttle at terminal 5
+Shuttle 1 is leaving Terminal 5
+Passenger 1 is waiting for a shuttle at terminal 0
+Shuttle 0 is at Terminal 0
+Passenger 5 is waiting for a shuttle at terminal 4
+Passenger 6 is waiting for a shuttle at terminal 2
+Shuttle 0 is leaving Terminal 0
+Passenger 8 is exiting a shuttle at terminal 0
+Passenger 1 is entering a shuttle at terminal 0
+Passenger 9 is entering a shuttle at terminal 0
+Shuttle 1 is at Terminal 0
+Passenger 7 is entering a shuttle at terminal 0
+Passenger 8 is waiting for a shuttle at terminal 2
+Passenger 1 is on a shuttle en route to terminal 3
+Passenger 9 is on a shuttle en route to terminal 2
+Shuttle 1 is leaving Terminal 1
+Passenger 3 is exiting a shuttle at terminal 1
+Passenger 7 is on a shuttle en route to terminal 4
+Passenger 3 is waiting for a shuttle at terminal 5
+Shuttle 0 is at Terminal 1
+Passenger 2 is entering a shuttle at terminal 1
+Shuttle 0 is leaving Terminal 1
+Passenger 2 is on a shuttle en route to terminal 0
+Passenger 6 is entering a shuttle at terminal 2
+Shuttle 1 is at Terminal 2
+Passenger 8 is entering a shuttle at terminal 2
+Passenger 6 is on a shuttle en route to terminal 3
+Passenger 8 is on a shuttle en route to terminal 5
+Passenger 9 is exiting a shuttle at terminal 2
+Shuttle 1 is leaving Terminal 2
+Passenger 9 is waiting for a shuttle at terminal 0
+Shuttle 0 is at Terminal 2
+Shuttle 0 is leaving Terminal 2
+Shuttle 1 is at Terminal 3
+Shuttle 1 is leaving Terminal 3
+Passenger 6 is exiting a shuttle at terminal 3
+Passenger 1 is exiting a shuttle at terminal 3
+Passenger 0 is exiting a shuttle at terminal 3
+Shuttle 1 is at Terminal 4
+Passenger 6 is waiting for a shuttle at terminal 2
+Shuttle 1 is leaving Terminal 3
+Passenger 1 is waiting for a shuttle at terminal 0
+Shuttle 0 is at Terminal 3
+Passenger 0 is waiting for a shuttle at terminal 4
+Shuttle 0 is leaving Terminal 3
+Shuttle 1 is at Terminal 5
+Passenger 3 is entering a shuttle at terminal 5
+Passenger 3 is on a shuttle en route to terminal 1
+Passenger 8 is exiting a shuttle at terminal 5
+Shuttle 1 is leaving Terminal 5
+Passenger 8 is waiting for a shuttle at terminal 2
+Passenger 5 is entering a shuttle at terminal 4
+Shuttle 0 is at Terminal 0
+Passenger 0 is entering a shuttle at terminal 4
+Passenger 5 is on a shuttle en route to terminal 1
+Shuttle 0 is leaving Terminal 0
+Passenger 2 is exiting a shuttle at terminal 0
+Passenger 0 is on a shuttle en route to terminal 5
+Passenger 2 is waiting for a shuttle at terminal 1
+Passenger 1 is entering a shuttle at terminal 0
+Shuttle 1 is at Terminal 0
+Passenger 9 is entering a shuttle at terminal 0
+Passenger 1 is on a shuttle en route to terminal 2
+Shuttle 1 is leaving Terminal 5
+Passenger 0 is exiting a shuttle at terminal 5
+Passenger 9 is on a shuttle en route to terminal 3
+Shuttle 0 is at Terminal 5
+Passenger 0 is waiting for a shuttle at terminal 4
+Shuttle 0 is leaving Terminal 1
+Passenger 5 is exiting a shuttle at terminal 1
+Passenger 3 is exiting a shuttle at terminal 1
+Passenger 5 is waiting for a shuttle at terminal 4
+Shuttle 1 is at Terminal 0
+Passenger 2 is entering a shuttle at terminal 1
+Passenger 3 is waiting for a shuttle at terminal 5
+Shuttle 1 is leaving Terminal 2
+Passenger 1 is exiting a shuttle at terminal 2
+Passenger 2 is on a shuttle en route to terminal 5
+Passenger 1 is waiting for a shuttle at terminal 0
+Passenger 6 is entering a shuttle at terminal 2
+Passenger 6 is on a shuttle en route to terminal 1
+Shuttle 0 is at Terminal 2
+Passenger 8 is entering a shuttle at terminal 2
+Passenger 9 is exiting a shuttle at terminal 3
+Shuttle 0 is leaving Terminal 3
+Passenger 8 is on a shuttle en route to terminal 0
+Shuttle 1 is at Terminal 3
+Passenger 9 is waiting for a shuttle at terminal 0
+Shuttle 1 is leaving Terminal 3
+Shuttle 0 is at Terminal 4
+Passenger 5 is entering a shuttle at terminal 4
+Passenger 0 is entering a shuttle at terminal 4
+Passenger 5 is on a shuttle en route to terminal 5
+Passenger 7 is exiting a shuttle at terminal 4
+Passenger 4 is exiting a shuttle at terminal 4
+Shuttle 0 is leaving Terminal 4
+Passenger 0 is on a shuttle en route to terminal 1
+Shuttle 1 is at Terminal 4
+Passenger 7 is waiting for a shuttle at terminal 0
+Shuttle 1 is leaving Terminal 4
+Passenger 4 is waiting for a shuttle at terminal 5
+Passenger 3 is entering a shuttle at terminal 5
+Passenger 4 is entering a shuttle at terminal 5
+Shuttle 0 is at Terminal 5
+Passenger 3 is on a shuttle en route to terminal 4
+Passenger 4 is on a shuttle en route to terminal 3
+Shuttle 0 is leaving Terminal 5
+Passenger 5 is exiting a shuttle at terminal 5
+Passenger 2 is exiting a shuttle at terminal 5
+Passenger 5 is waiting for a shuttle at terminal 4
+Shuttle 1 is at Terminal 0
+Passenger 2 is waiting for a shuttle at terminal 1
+Shuttle 1 is leaving Terminal 0
+Passenger 8 is exiting a shuttle at terminal 0
+Passenger 7 is entering a shuttle at terminal 0
+Passenger 9 is entering a shuttle at terminal 0
+Shuttle 0 is at Terminal 0
+Passenger 1 is entering a shuttle at terminal 0
+Passenger 8 is waiting for a shuttle at terminal 2
+Passenger 7 is on a shuttle en route to terminal 3
+Passenger 9 is on a shuttle en route to terminal 3
+Shuttle 0 is leaving Terminal 1
+Passenger 0 is exiting a shuttle at terminal 1
+Passenger 1 is on a shuttle en route to terminal 4
+Passenger 6 is exiting a shuttle at terminal 1
+Shuttle 1 is at Terminal 1
+Passenger 2 is entering a shuttle at terminal 1
+Passenger 0 is waiting for a shuttle at terminal 4
+Shuttle 1 is leaving Terminal 2
+Passenger 6 is waiting for a shuttle at terminal 2
+Passenger 2 is on a shuttle en route to terminal 5
+Passenger 8 is entering a shuttle at terminal 2
+Passenger 6 is entering a shuttle at terminal 2
+Shuttle 0 is at Terminal 2
+Passenger 8 is on a shuttle en route to terminal 4
+Passenger 6 is on a shuttle en route to terminal 3
+Shuttle 0 is leaving Terminal 3
+Passenger 6 is exiting a shuttle at terminal 3
+Passenger 9 is exiting a shuttle at terminal 3
+Passenger 7 is exiting a shuttle at terminal 3
+Passenger 4 is exiting a shuttle at terminal 3
+Passenger 6 is waiting for a shuttle at terminal 2
+Shuttle 1 is at Terminal 3
+Passenger 9 is waiting for a shuttle at terminal 0
+Passenger 7 is waiting for a shuttle at terminal 0
+Passenger 4 is waiting for a shuttle at terminal 5
+Shuttle 1 is leaving Terminal 4
+Passenger 8 is exiting a shuttle at terminal 4
+Passenger 1 is exiting a shuttle at terminal 4
+Passenger 3 is exiting a shuttle at terminal 4
+Passenger 8 is waiting for a shuttle at terminal 2
+Passenger 0 is entering a shuttle at terminal 4
+Shuttle 0 is at Terminal 4
+Passenger 5 is entering a shuttle at terminal 4
+Passenger 1 is waiting for a shuttle at terminal 0
+Passenger 3 is waiting for a shuttle at terminal 5
+Passenger 0 is on a shuttle en route to terminal 5
+Shuttle 0 is leaving Terminal 5
+Passenger 0 is exiting a shuttle at terminal 5
+Passenger 2 is exiting a shuttle at terminal 5
+Passenger 5 is on a shuttle en route to terminal 1
+Passenger 0 is waiting for a shuttle at terminal 4
+Passenger 4 is entering a shuttle at terminal 5
+Passenger 2 is waiting for a shuttle at terminal 1
+Passenger 4 is on a shuttle en route to terminal 1
+Shuttle 1 is at Terminal 0
+Passenger 3 is entering a shuttle at terminal 5
+Shuttle 1 is leaving Terminal 0
+Passenger 3 is on a shuttle en route to terminal 3
+Passenger 9 is entering a shuttle at terminal 0
+Passenger 1 is entering a shuttle at terminal 0
+Shuttle 0 is at Terminal 0
+Passenger 7 is entering a shuttle at terminal 0
+Passenger 9 is on a shuttle en route to terminal 5
+Passenger 1 is on a shuttle en route to terminal 4
+Passenger 7 is on a shuttle en route to terminal 2
+Passenger 5 is exiting a shuttle at terminal 1
+Passenger 5 is waiting for a shuttle at terminal 4
+Passenger 4 is exiting a shuttle at terminal 1
+Passenger 4 is waiting for a shuttle at terminal 5
+Shuttle 0 is leaving Terminal 1
+Passenger 2 is entering a shuttle at terminal 1
+Passenger 2 is on a shuttle en route to terminal 2
+Shuttle 1 is at Terminal 1
+Shuttle 1 is leaving Terminal 2
+Passenger 2 is exiting a shuttle at terminal 2
+Passenger 7 is exiting a shuttle at terminal 2
+Passenger 2 is waiting for a shuttle at terminal 1
+Passenger 8 is entering a shuttle at terminal 2
+Shuttle 0 is at Terminal 2
+Passenger 6 is entering a shuttle at terminal 2
+Passenger 7 is waiting for a shuttle at terminal 0
+Passenger 8 is on a shuttle en route to terminal 5
+Shuttle 0 is leaving Terminal 3
+Passenger 3 is exiting a shuttle at terminal 3
+Passenger 6 is on a shuttle en route to terminal 0
+Shuttle 1 is at Terminal 3
+Passenger 3 is waiting for a shuttle at terminal 5
+Shuttle 1 is leaving Terminal 3
+Passenger 0 is entering a shuttle at terminal 4
+Passenger 5 is entering a shuttle at terminal 4
+Shuttle 0 is at Terminal 4
+Passenger 0 is on a shuttle en route to terminal 5
+Passenger 5 is on a shuttle en route to terminal 1
+Shuttle 0 is leaving Terminal 4
+Passenger 1 is exiting a shuttle at terminal 4
+Shuttle 1 is at Terminal 4
+Shuttle 1 is leaving Terminal 4
+Passenger 1 is waiting for a shuttle at terminal 0
+Shuttle 1 is at Terminal 5
+Shuttle 1 is leaving Terminal 5
+Passenger 0 is exiting a shuttle at terminal 5
+Passenger 8 is exiting a shuttle at terminal 5
+Passenger 9 is exiting a shuttle at terminal 5
+Passenger 0 is waiting for a shuttle at terminal 4
+Passenger 3 is entering a shuttle at terminal 5
+Shuttle 0 is at Terminal 0
+Passenger 4 is entering a shuttle at terminal 5
+Passenger 8 is waiting for a shuttle at terminal 2
+Passenger 9 is waiting for a shuttle at terminal 0
+Passenger 3 is on a shuttle en route to terminal 1
+Shuttle 0 is leaving Terminal 0
+Passenger 6 is exiting a shuttle at terminal 0
+Passenger 4 is on a shuttle en route to terminal 2
+Passenger 6 is waiting for a shuttle at terminal 2
+Passenger 7 is entering a shuttle at terminal 0
+Passenger 9 is entering a shuttle at terminal 0
+Shuttle 1 is at Terminal 0
+Passenger 1 is entering a shuttle at terminal 0
+Shuttle 1 is leaving Terminal 0
+Passenger 7 is on a shuttle en route to terminal 4
+Shuttle 0 is at Terminal 1
+Passenger 9 is on a shuttle en route to terminal 2
+Passenger 1 is on a shuttle en route to terminal 3
+Shuttle 0 is leaving Terminal 1
+Passenger 3 is exiting a shuttle at terminal 1
+Passenger 5 is exiting a shuttle at terminal 1
+Passenger 3 is waiting for a shuttle at terminal 5
+Shuttle 1 is at Terminal 1
+Passenger 2 is entering a shuttle at terminal 1
+Passenger 5 is waiting for a shuttle at terminal 4
+Passenger 2 is on a shuttle en route to terminal 3
+Passenger 4 is exiting a shuttle at terminal 2
+Passenger 9 is exiting a shuttle at terminal 2
+Shuttle 1 is leaving Terminal 2
+Passenger 4 is waiting for a shuttle at terminal 5
+Passenger 9 is waiting for a shuttle at terminal 0
+Passenger 8 is entering a shuttle at terminal 2
+Passenger 6 is entering a shuttle at terminal 2
+Shuttle 0 is at Terminal 2
+Shuttle 0 is leaving Terminal 2
+Passenger 8 is on a shuttle en route to terminal 5
+Passenger 6 is on a shuttle en route to terminal 4
+Shuttle 0 is at Terminal 3
+Shuttle 0 is leaving Terminal 3
+Passenger 2 is exiting a shuttle at terminal 3
+Passenger 1 is exiting a shuttle at terminal 3
+Passenger 2 is waiting for a shuttle at terminal 1
+Shuttle 1 is at Terminal 3
+Passenger 1 is waiting for a shuttle at terminal 0
+Shuttle 1 is leaving Terminal 4
+Passenger 6 is exiting a shuttle at terminal 4
+Passenger 7 is exiting a shuttle at terminal 4
+Passenger 6 is waiting for a shuttle at terminal 2
+Passenger 5 is entering a shuttle at terminal 4
+Shuttle 0 is at Terminal 4
+Passenger 0 is entering a shuttle at terminal 4
+Passenger 7 is waiting for a shuttle at terminal 0
+Passenger 5 is on a shuttle en route to terminal 3
+Shuttle 0 is leaving Terminal 5
+Passenger 8 is exiting a shuttle at terminal 5
+Passenger 0 is on a shuttle en route to terminal 2
+Passenger 8 is waiting for a shuttle at terminal 2
+Passenger 4 is entering a shuttle at terminal 5
+Shuttle 1 is at Terminal 0
+Passenger 3 is entering a shuttle at terminal 5
+Shuttle 1 is leaving Terminal 0
+Passenger 4 is on a shuttle en route to terminal 2
+Passenger 3 is on a shuttle en route to terminal 0
+Passenger 9 is entering a shuttle at terminal 0
+Passenger 7 is entering a shuttle at terminal 0
+Shuttle 0 is at Terminal 0
+Passenger 1 is entering a shuttle at terminal 0
+Passenger 9 is on a shuttle en route to terminal 5
+Passenger 7 is on a shuttle en route to terminal 1
+Shuttle 0 is leaving Terminal 0
+Passenger 1 is on a shuttle en route to terminal 3
+Passenger 3 is exiting a shuttle at terminal 0
+Passenger 3 is waiting for a shuttle at terminal 5
+Shuttle 1 is at Terminal 0
+Shuttle 1 is leaving Terminal 0
+Passenger 2 is entering a shuttle at terminal 1
+Shuttle 0 is at Terminal 1
+Passenger 2 is on a shuttle en route to terminal 0
+Shuttle 0 is leaving Terminal 1
+Passenger 7 is exiting a shuttle at terminal 1
+Passenger 7 is waiting for a shuttle at terminal 0
+Shuttle 1 is at Terminal 1
+Shuttle 1 is leaving Terminal 2
+Passenger 4 is exiting a shuttle at terminal 2
+Passenger 0 is exiting a shuttle at terminal 2
+Passenger 4 is waiting for a shuttle at terminal 5
+Passenger 8 is entering a shuttle at terminal 2
+Shuttle 0 is at Terminal 2
+Passenger 6 is entering a shuttle at terminal 2
+Passenger 0 is waiting for a shuttle at terminal 4
+Passenger 8 is on a shuttle en route to terminal 0
+Passenger 6 is on a shuttle en route to terminal 5
+Passenger 5 is exiting a shuttle at terminal 3
+Passenger 1 is exiting a shuttle at terminal 3
+Shuttle 0 is leaving Terminal 3
+Passenger 5 is waiting for a shuttle at terminal 4
+Shuttle 1 is at Terminal 3
+Passenger 1 is waiting for a shuttle at terminal 0
+Shuttle 1 is leaving Terminal 4
+Shuttle 0 is at Terminal 4
+Passenger 5 is entering a shuttle at terminal 4
+Passenger 0 is entering a shuttle at terminal 4
+Passenger 5 is on a shuttle en route to terminal 3
+Shuttle 0 is leaving Terminal 4
+Passenger 0 is on a shuttle en route to terminal 5
+Passenger 3 is entering a shuttle at terminal 5
+Passenger 4 is entering a shuttle at terminal 5
+Shuttle 1 is at Terminal 5
+Passenger 3 is on a shuttle en route to terminal 3
+Passenger 4 is on a shuttle en route to terminal 1
+Shuttle 1 is leaving Terminal 5
+Passenger 0 is exiting a shuttle at terminal 5
+Passenger 6 is exiting a shuttle at terminal 5
+Passenger 9 is exiting a shuttle at terminal 5
+Passenger 0 is waiting for a shuttle at terminal 4
+Shuttle 0 is at Terminal 0
+Passenger 6 is waiting for a shuttle at terminal 2
+Passenger 9 is waiting for a shuttle at terminal 0
+Shuttle 0 is leaving Terminal 0
+Passenger 8 is exiting a shuttle at terminal 0
+Passenger 2 is exiting a shuttle at terminal 0
+Passenger 8 is waiting for a shuttle at terminal 2
+Passenger 9 is entering a shuttle at terminal 0
+Passenger 1 is entering a shuttle at terminal 0
+Shuttle 1 is at Terminal 0
+Passenger 7 is entering a shuttle at terminal 0
+Passenger 2 is waiting for a shuttle at terminal 1
+Passenger 9 is on a shuttle en route to terminal 4
+Passenger 1 is on a shuttle en route to terminal 5
+Shuttle 1 is leaving Terminal 1
+Passenger 4 is exiting a shuttle at terminal 1
+Passenger 7 is on a shuttle en route to terminal 2
+Passenger 4 is waiting for a shuttle at terminal 5
+Shuttle 0 is at Terminal 1
+Passenger 2 is entering a shuttle at terminal 1
+Shuttle 0 is leaving Terminal 1
+Passenger 2 is on a shuttle en route to terminal 2
+Passenger 6 is entering a shuttle at terminal 2
+Shuttle 1 is at Terminal 2
+Passenger 8 is entering a shuttle at terminal 2
+Passenger 6 is on a shuttle en route to terminal 0
+Shuttle 1 is leaving Terminal 2
+Passenger 2 is exiting a shuttle at terminal 2
+Passenger 8 is on a shuttle en route to terminal 0
+Passenger 7 is exiting a shuttle at terminal 2
+Passenger 2 is waiting for a shuttle at terminal 1
+Shuttle 0 is at Terminal 2
+Passenger 7 is waiting for a shuttle at terminal 0
+Shuttle 0 is leaving Terminal 3
+Passenger 3 is exiting a shuttle at terminal 3
+Passenger 5 is exiting a shuttle at terminal 3
+Passenger 3 is waiting for a shuttle at terminal 5
+Shuttle 1 is at Terminal 3
+Passenger 5 is waiting for a shuttle at terminal 4
+Shuttle 1 is leaving Terminal 4
+Passenger 9 is exiting a shuttle at terminal 4
+Passenger 5 is entering a shuttle at terminal 4
+Shuttle 0 is at Terminal 4
+Passenger 0 is entering a shuttle at terminal 4
+Passenger 9 is waiting for a shuttle at terminal 0
+Passenger 5 is on a shuttle en route to terminal 0
+Shuttle 0 is leaving Terminal 5
+Passenger 1 is exiting a shuttle at terminal 5
+Passenger 0 is on a shuttle en route to terminal 0
+Passenger 1 is waiting for a shuttle at terminal 0
+Passenger 3 is entering a shuttle at terminal 5
+Passenger 3 is on a shuttle en route to terminal 0
+Shuttle 1 is at Terminal 0
+Shuttle 1 is leaving Terminal 0
+Passenger 4 is entering a shuttle at terminal 5
+Passenger 4 is on a shuttle en route to terminal 1
+Passenger 1 is entering a shuttle at terminal 0
+Passenger 1 is on a shuttle en route to terminal 4
+Passenger 9 is entering a shuttle at terminal 0
+Passenger 9 is on a shuttle en route to terminal 2
+Shuttle 0 is at Terminal 0
+Shuttle 0 is leaving Terminal 1
+Passenger 7 is entering a shuttle at terminal 0
+Passenger 7 is on a shuttle en route to terminal 2
+Passenger 3 is exiting a shuttle at terminal 0
+Passenger 0 is exiting a shuttle at terminal 0
+Passenger 5 is exiting a shuttle at terminal 0
+Passenger 8 is exiting a shuttle at terminal 0
+Passenger 6 is exiting a shuttle at terminal 0
+Passenger 3 is waiting for a shuttle at terminal 5
+Shuttle 1 is at Terminal 1
+Passenger 2 is entering a shuttle at terminal 1
+Passenger 4 is exiting a shuttle at terminal 1
+Passenger 0 is waiting for a shuttle at terminal 4
+Passenger 5 is waiting for a shuttle at terminal 4
+Passenger 8 is waiting for a shuttle at terminal 2
+Passenger 6 is waiting for a shuttle at terminal 2
+Shuttle 1 is leaving Terminal 2
+Passenger 7 is exiting a shuttle at terminal 2
+Passenger 9 is exiting a shuttle at terminal 2
+Passenger 2 is on a shuttle en route to terminal 2
+Passenger 4 is waiting for a shuttle at terminal 5
+Passenger 7 is waiting for a shuttle at terminal 0
+Passenger 6 is entering a shuttle at terminal 2
+Shuttle 0 is at Terminal 2
+Passenger 8 is entering a shuttle at terminal 2
+Passenger 9 is waiting for a shuttle at terminal 0
+Passenger 6 is on a shuttle en route to terminal 5
+Shuttle 0 is leaving Terminal 2
+Passenger 2 is exiting a shuttle at terminal 2
+Passenger 8 is on a shuttle en route to terminal 3
+Shuttle 1 is at Terminal 2
+Passenger 2 is waiting for a shuttle at terminal 1
+Shuttle 1 is leaving Terminal 3
+Passenger 8 is exiting a shuttle at terminal 3
+Shuttle 0 is at Terminal 3
+Passenger 8 is waiting for a shuttle at terminal 2
+Shuttle 0 is leaving Terminal 3
+Passenger 0 is entering a shuttle at terminal 4
+Shuttle 1 is at Terminal 4
+Passenger 5 is entering a shuttle at terminal 4
+Passenger 0 is on a shuttle en route to terminal 0
+Shuttle 1 is leaving Terminal 4
+Passenger 1 is exiting a shuttle at terminal 4
+Passenger 5 is on a shuttle en route to terminal 1
+Shuttle 0 is at Terminal 4
+Passenger 1 is waiting for a shuttle at terminal 0
+Shuttle 0 is leaving Terminal 4
+Shuttle 0 is at Terminal 5
+Shuttle 0 is leaving Terminal 5
+Passenger 6 is exiting a shuttle at terminal 5
+Passenger 4 is entering a shuttle at terminal 5
+Shuttle 1 is at Terminal 0
+Passenger 3 is entering a shuttle at terminal 5
+Passenger 6 is waiting for a shuttle at terminal 2
+Passenger 4 is on a shuttle en route to terminal 4
+Shuttle 1 is leaving Terminal 0
+Passenger 0 is exiting a shuttle at terminal 0
+Passenger 3 is on a shuttle en route to terminal 1
+Passenger 0 is waiting for a shuttle at terminal 4
+Passenger 7 is entering a shuttle at terminal 0
+Passenger 1 is entering a shuttle at terminal 0
+Shuttle 0 is at Terminal 0
+Passenger 9 is entering a shuttle at terminal 0
+Shuttle 0 is leaving Terminal 0
+Passenger 7 is on a shuttle en route to terminal 4
+Passenger 1 is on a shuttle en route to terminal 4
+Passenger 9 is on a shuttle en route to terminal 1
+Shuttle 1 is at Terminal 1
+Passenger 2 is entering a shuttle at terminal 1
+Passenger 9 is exiting a shuttle at terminal 1> 

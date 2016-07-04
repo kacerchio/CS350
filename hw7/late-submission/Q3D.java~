@@ -1,0 +1,110 @@
+import java.util.concurrent.Semaphore;
+import java.util.*;
+
+public class Q3D extends Thread {
+  
+  private int id;
+  private static int N = 5;
+  private final Random rand = new Random();
+  static volatile Semaphore [] B = new Semaphore [N];
+  static {
+    for(int i = 0; i < N; i++) {
+      B[i] = new Semaphore(0, false);
+    }   
+  }
+  static volatile int[] R = new int[N];
+  static volatile LinkedList<Integer> queue = new LinkedList<Integer>();
+  static volatile int counter = 0;
+  
+  /*
+   * Create a new process with given id
+   */ 
+  public Q3D(int id) {
+    this.id = id;
+  }
+  
+  /*
+   * run() constitutes the main entry for thread execution, allowing a 
+   * set of processes to grab the semaphore in strict FIFO order
+   */ 
+  public void run() {
+    for(int j = 1; j <= 10; j++) {
+      newWait(this.id);
+      // Critical section
+      System.out.println("P" + this.id + " is entering CS on iteration " + j);
+      delay(0, 20);
+      newSignal(this.id);
+    }
+  }
+  
+  /*
+   * signal() is used by a process when it is done with its Semaphore
+   */ 
+  public void signal(Semaphore B) {
+    B.release();
+  }
+  
+  /*
+   * newSignal() is used by a process when it wishes to signal 
+   * the "priority Semaphore"
+   */
+  public void newSignal(int i) { 
+    R[i] = 0;
+    counter--; 
+    if(counter > 0) {
+      System.out.println("P" + i + " is exiting the CS");
+      Integer head = queue.poll();
+      signal(B[head.intValue()]); 
+    } 
+  } 
+  
+  /*
+   * wait() is used by a process when it wishes to aquire a Semaphore
+   */ 
+  public void wait(Semaphore B){
+    try {
+      B.acquire();
+    }
+    catch(InterruptedException e) {
+    }
+  }
+  
+  /*
+   * newWait() is used by a process when it wishes to wait on 
+   * the "priority Semaphore"
+   */
+  public void newWait(int i) {
+    System.out.println("P" + i + " is requesting CS");
+    R[i] = i;  
+    counter++; 
+    if (counter > 1){ 
+      queue.add(new Integer(i));
+      wait(B[i]);  
+    } 
+  } 
+  
+  /*
+   * delay() puts the process to sleep for some
+   * random time in interval given (i.e. 0-20)
+   */ 
+  public void delay(int min, int max) {
+    try {
+      int randomTime = rand.nextInt((max - min) + 1) + min;
+      sleep(randomTime);
+    } 
+    catch (InterruptedException e) { }
+  }
+  
+  /*
+   * Spawns and runs N threads concurrently 
+   */
+  public static void main(String[] args) {
+    final int N = 5;
+    Q3D[] p = new Q3D[N];
+    for (int i = 0; i < N; i++) {
+      p[i] = new Q3D(i);
+      p[i].start();
+    }
+  }
+
+}
